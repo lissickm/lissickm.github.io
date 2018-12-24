@@ -1,39 +1,50 @@
-p {
-  color: blue;
-}
-
 .initial-info {
     text-align: center;
-    font-family: Georgia, serif;
-    font-size: 10px;
+    font-family: Helvetica, sans-serif;
+    font-size: 11px;
     line-height: 2px;
 }
 
 h1 {
   text-align: center;
-  font-family: Georgia, serif;
-  font-size: 38 px;
+  font-family: Helvetica, sans-serif;
+  font-size: 2.5rem;
   font-weight: bold;
 }
 
 h2 {
-  font-family: Georgia, serif;
+  font-family: Helvetica, sans-serif;
   font-size: 16 px;
 }
 
 h3 {
-  font-family: Georgia, serif;
+  font-family: Helvetica, sans-serif;
   font-size: 13 px;
   font-weight: bold;
 }
 
 h4 {
-  font-family: Georgia, serif;
+  font-family: Helvetica, sans-serif;
   font-size: 13 px;
 }
 
+.closer {
+  line-height: 2px;
+}
 .opener {
   text-align: center;
-  font-family: Georgia, serif;
+  font-family: Helvetica, sans-serif;
   font-size: 13px;
   line-height: normal;
+  border-bottom: 2px solid black
+
+}
+
+p {
+  font-family: Helvetica, sans-serif;
+  font-size: 13 px;
+}
+
+body {
+  background-color: gray
+}
