@@ -16,9 +16,23 @@ h1 {
   font-weight: bold;
 }
 
+h2 {
+  font-family: Georgia, serif;
+  font-size: 16 px;
+}
+
+h3 {
+  font-family: Georgia, serif;
+  font-size: 13 px;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: Georgia, serif;
+  font-size: 13 px;
+}
 .opener {
   text-align: center;
   font-family: Georgia, serif;
   font-size: 13px;
   line-height: normal;
-}
