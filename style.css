@@ -2,6 +2,12 @@ p {
   color: red;
 }
 
+h1 {
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: 32 px;
+
+}
 .initial-info {
     text-align: center;
     font-family: Georgia, serif;
