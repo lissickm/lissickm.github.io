@@ -1,15 +1,24 @@
 p {
-  color: red;
+  color: blue;
+}
+
+.initial-info {
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 10px;
+    line-height: 2px;
 }
 
 h1 {
   text-align: center;
   font-family: Georgia, serif;
   font-size: 32 px;
-
+  font-weight: bold;
 }
-.initial-info {
-    text-align: center;
-    font-family: Georgia, serif;
-    font-size: 11 px;
+
+.opener {
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: 13px;
+  line-height: normal;
 }
