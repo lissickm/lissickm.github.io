@@ -12,7 +12,7 @@ p {
 h1 {
   text-align: center;
   font-family: Georgia, serif;
-  font-size: 32 px;
+  font-size: 38 px;
   font-weight: bold;
 }
 
@@ -31,6 +31,11 @@ h4 {
   font-family: Georgia, serif;
   font-size: 13 px;
 }
+
+.closer {
+  line-height: 2px;
+}
+
 .opener {
   text-align: center;
   font-family: Georgia, serif;
