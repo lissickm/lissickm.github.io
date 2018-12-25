@@ -46,5 +46,18 @@ p {
 }
 
 body {
+
+  background-image: url("farmer.png");
+  max-width: 800px;
+}
+
+}
+
+p {
+  font-family: Helvetica, sans-serif;
+  font-size: 13 px;
+}
+
+body {
   background-color: gray
 }
